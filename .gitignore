@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary testing files
+temp/
+
+# Generated video clips
+output/
+
+# Environment variables
+.env
+
+# Input movie files
+input/movies/*.mp4
+input/movies/*.mkv
+input/movies/*.avi
