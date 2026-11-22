@@ -18,3 +18,7 @@ output/
 input/movies/*.mp4
 input/movies/*.mkv
 input/movies/*.avi
+
+
+# YOLO model weights
+*.pt
